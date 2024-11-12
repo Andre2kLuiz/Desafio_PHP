@@ -20,7 +20,7 @@ Clone o repositório para a sua máquina local usando o comando git clone:
 
 bash
 Copiar código
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Andre2kLuiz/Desafio_PHP
 Substitua o URL do repositório com o link do seu projeto.
 
 # Passo 2: Configurar o Banco de Dados (MySQL)
